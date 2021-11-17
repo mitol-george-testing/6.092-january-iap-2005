@@ -1,0 +1,39 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Proteomics"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fe8b0873-af57-1ce2-8888-1dcf975bad8e",
+      "9cfae9fe-39e4-63e9-6225-748a604c4da1",
+      "c5af847a-db6f-89ab-376b-949f6c7771b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Bioinformatics and Proteomics",
+  "course_description": "This interdisciplinary course provides a hands-on approach to students in the topics of bioinformatics and proteomics. Lectures and labs cover sequence analysis, microarray expression analysis, Bayesian methods, control theory, scale-free networks, and biotechnology applications. Designed for those with a computational and/or engineering background, it will include current real-world examples, actual implementations, and engineering design issues. Where applicable, engineering issues from signal processing, network theory, machine learning, robotics and other domains will be expounded upon.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.092",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
